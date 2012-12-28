@@ -1,0 +1,480 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"password"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"sub",
+				"sub_device"
+			],
+			[
+				"dev",
+				"device_id"
+			],
+			[
+				"sub_dev",
+				"sub_devices"
+			],
+			[
+				"update",
+				"update_attributes"
+			],
+			[
+				"sub_de",
+				"sub_device"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"render",
+				"render_json"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"git stats",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/megas/Work/myooma/lib/templates/set_admdid_request.xml",
+		"/home/megas/Work/myooma/lib/actions/fsvm_action.rb",
+		"/home/megas/Work/myooma/lib/storages/cache_storage.rb",
+		"/home/megas/Work/myooma/lib/storages/couch_storage.rb",
+		"/home/megas/Work/myooma/lib/storages/storage.rb",
+		"/home/megas/Work/myooma/lib/connectors/xml_connector.rb",
+		"/home/megas/Work/myooma/lib/generators/get_admuser_generator.rb",
+		"/home/megas/Work/myooma/lib/generators/login_generator.rb",
+		"/home/megas/Work/myooma/lib/actions/fsvm_login.rb",
+		"/home/megas/Work/myooma/lib/actions/get_admsubdevice.rb",
+		"/home/megas/Work/myooma/lib/actions/get_admuser.rb",
+		"/home/megas/Work/myooma/lib/actions/get_custservice.rb",
+		"/home/megas/Work/myooma/lib/actions/login.rb",
+		"/home/megas/Work/myooma/lib/actions/set_admdevice.rb",
+		"/home/megas/Work/myooma/lib/actions/set_admdid.rb",
+		"/home/megas/Work/myooma/app/controllers/business_info_controller.rb",
+		"/home/megas/Work/myooma/app/controllers/main_controller.rb",
+		"/home/megas/Work/myooma/app/controllers/sessions_controller.rb",
+		"/home/megas/Work/myooma/app/models/business_info/system.rb",
+		"/home/megas/Work/myooma/app/models/business_info/tier.rb",
+		"/home/megas/Work/myooma/app/models/device/number.rb",
+		"/home/megas/Work/myooma/app/models/device/sub_device.rb",
+		"/home/megas/Work/myooma/doc/notes.txt",
+		"/home/megas/Work/myooma/app/models/user_session.rb",
+		"/home/megas/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/megas/Work/myooma/coverage/index.html",
+		"/home/megas/Work/myooma/lib/tasks/cucumber.rake",
+		"/home/megas/Work/myooma/lib/mappers/customer_response_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/login_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/customer/credit_card_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/customer/customer_info_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/customer/id_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/customer/offering_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/customer/pay_method_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/customer/service_attribute_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/customer/service_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/device_id_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/device_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/did_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/e164_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/identification_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/params_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/privileged_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/profile_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/security_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/sip_account_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/sub_device_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/user_id_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/user_info_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/user_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/sub_device_response_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/user/call_feature_mapper.rb",
+		"/home/megas/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/megas/Work/myooma/app/models/device/device.rb",
+		"/home/megas/Work/myooma/app/controllers/device/devices_controller.rb",
+		"/home/megas/Work/myooma/app/controllers/device/sub_devices_controller.rb",
+		"/home/megas/Work/myooma/lib/actions/oss_login.rb",
+		"/home/megas/Work/myooma/lib/sessions/oss_session.rb",
+		"/home/megas/Work/myooma/lib/mappers/sub_device_request_mapper.rb",
+		"/home/megas/Work/myooma/lib/actions/oss_action.rb",
+		"/home/megas/Work/myooma/lib/adapters/oss_adapter.rb",
+		"/home/megas/Work/myooma/lib/mappers/base_mapper.rb",
+		"/home/megas/Work/myooma/app/controllers/device/device_controller.rb",
+		"/home/megas/Work/myooma/lib/templates/set_admdid_response.xml",
+		"/home/megas/Work/myooma/lib/mappers/customer_request_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/auth_response_mapper.rb",
+		"/home/megas/Work/myooma/lib/mappers/auth_request_mapper.rb",
+		"/home/megas/Work/myooma/config/routes.rb",
+		"/home/megas/Work/myooma/spec/controllers/device/devices_controller_spec.rb",
+		"/home/megas/Work/myooma/spec/controllers/device/sub_devices_controller_spec.rb",
+		"/home/megas/Work/myooma/app/controllers/device/numbers_controller.rb",
+		"/home/megas/Work/myooma/lib/actions/login_old.rb",
+		"/home/megas/Work/myooma/lib/storages.rb",
+		"/home/megas/Work/myooma/app/controllers/device_controller.rb",
+		"/home/megas/Work/myooma_v2/Work/myooma_v2/lib/parsers/get_admuser_parser.rb",
+		"/home/megas/Work/myooma_v2/Work/myooma_v2/app/models/device.rb",
+		"/home/megas/Work/myooma_v2/Work/myooma_v2/app/models/number.rb",
+		"/home/megas/Work/myooma_v2/Work/myooma_v2/app/models/sub_device.rb",
+		"/home/megas/Work/myooma_v2/Work/myooma_v2/app/models/user_session.rb",
+		"/home/megas/Work/myooma_v2/Work/myooma_v2/lib/actions/set_admdevice.rb",
+		"/home/megas/Work/myooma_v2/Work/myooma_v2/lib/sessions/oss_session.rb",
+		"/home/megas/Work/myooma_v2/Work/myooma_v2/lib/adapters/oss_adapter.rb",
+		"/home/megas/Work/myooma_v2/Work/myooma_v2/lib/actions/oss_action.rb",
+		"/home/megas/Work/myooma_v2/app/controllers/devices_controller.rb",
+		"/home/megas/Work/myooma_v2/lib/actions/get_admuser.rb",
+		"/home/megas/Work/myooma_orig/lib/connection_adapter.rb",
+		"/home/megas/Work/myooma_orig/lib/actions/wsdl_action.rb",
+		"/home/megas/Work/myooma_orig/lib/generators/soap_generator.rb",
+		"/home/megas/Work/myooma_orig/lib/connectors/entity_manager_connector.rb",
+		"/home/megas/Work/myooma_orig/lib/connectors/dcl_connector.rb",
+		"/home/megas/Work/myooma_orig/lib/wsdl_drivers/development/entity_manager/EntityManagerService.rb",
+		"/home/megas/Work/myooma_orig/lib/wsdl_drivers/development/entity_manager/EntityManagerServiceDriver.rb",
+		"/home/megas/Work/myooma_orig/lib/actions/action.rb",
+		"/home/megas/Work/myooma_orig/app/controllers/account_products_controller.rb",
+		"/home/megas/Work/myooma_orig/app/controllers/my_ooma_controller.rb",
+		"/usr/share/applications/sublime.desktop",
+		"/usr/share/applications/defaults.list"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"-*.sublime-*",
+			"",
+			"-*_spec.rb,-*.html,-*_test.rb, -*.js",
+			"-*_spec.rb,-*.html,-*_test.rb",
+			"-*_spec.rb,-*.html",
+			"-*_spec.rb",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"credent",
+			"soap4r",
+			"XMLConnector",
+			"def send",
+			"def get",
+			"generate",
+			"make_xml",
+			"save_to_xml",
+			"def save_to_xml",
+			"def make_xml",
+			"AuthRequest",
+			"soap4r",
+			"def make_xml",
+			"class OSSAction",
+			"GetAdmuser",
+			"get_admuser_request.xml",
+			"LOGIN",
+			"nc",
+			"cat",
+			"passw",
+			"yiu",
+			"yu",
+			"TODO",
+			"cache",
+			"Session",
+			"phone",
+			"git",
+			"tab",
+			"def self.template",
+			"OSSAdapter",
+			"OSSAction",
+			"< OSSAction",
+			"OSSAdapter",
+			"def oss_session",
+			"oss_session",
+			"load_from_xml_with_block",
+			"def make_xml",
+			"def get",
+			"class OSSAdapter",
+			"def get",
+			"OSSAction",
+			"load_from_xml_with_block",
+			"Mappers::Base",
+			"Base",
+			"Base.new",
+			"def make_xml",
+			"auth_request",
+			"raise",
+			"get_with_cache",
+			"Device.new",
+			"def mapper",
+			"Device.new",
+			"generate",
+			"GetAdmuser",
+			"Device.new",
+			"task",
+			"tasks",
+			"project_id",
+			"SetAdmdevice",
+			"create_adm_sub",
+			"gedit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sub_devices",
+			"device_id",
+			"sublime"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"note",
+				"doc/notes.txt"
+			],
+			[
+				"subdev",
+				"app/controllers/device/sub_devices_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"not",
+				"doc/notes.txt"
+			],
+			[
+				"notes",
+				"doc/notes.txt"
+			],
+			[
+				"customer",
+				"lib/mappers/customer_response_mapper.rb"
+			],
+			[
+				"xml_",
+				"lib/connectors/xml_connector.rb"
+			],
+			[
+				"oss_ada",
+				"lib/adapters/oss_adapter.rb"
+			],
+			[
+				"getadm",
+				"lib/actions/get_admuser.rb"
+			],
+			[
+				"login",
+				"lib/actions/login.rb"
+			],
+			[
+				"xmlconn",
+				"lib/connectors/xml_connector.rb"
+			],
+			[
+				"adapt",
+				"lib/adapters/oss_adapter.rb"
+			],
+			[
+				"oss_session",
+				"lib/sessions/oss_session.rb"
+			],
+			[
+				"storage",
+				"lib/storages/storage.rb"
+			],
+			[
+				"ossada",
+				"lib/adapters/oss_adapter.rb"
+			],
+			[
+				"ossaction",
+				"lib/actions/oss_action.rb"
+			],
+			[
+				"osslogin",
+				"lib/actions/oss_login.rb"
+			],
+			[
+				"getadmsub",
+				"lib/actions/get_admsubdevice.rb"
+			],
+			[
+				"number.rb",
+				"app/models/device/number.rb"
+			],
+			[
+				"sub_dev",
+				"app/models/device/sub_device.rb"
+			],
+			[
+				"oss_actio",
+				"lib/actions/oss_action.rb"
+			],
+			[
+				"getadmuser",
+				"lib/actions/get_admuser.rb"
+			],
+			[
+				"device.rb",
+				"app/models/device/device.rb"
+			],
+			[
+				"devic",
+				"app/models/device/device.rb"
+			],
+			[
+				"ossa",
+				"lib/actions/oss_action.rb"
+			],
+			[
+				"sub_",
+				"app/models/device/sub_device.rb"
+			],
+			[
+				"device",
+				"app/models/device/device.rb"
+			],
+			[
+				"number",
+				"app/controllers/device/numbers_controller.rb"
+			],
+			[
+				"devconspec",
+				"spec/controllers/device/devices_controller_spec.rb"
+			],
+			[
+				"sub",
+				"app/controllers/device/sub_devices_controller.rb"
+			],
+			[
+				"devicecont",
+				"app/controllers/device_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true
+}
