@@ -92,6 +92,7 @@ GEM
     json (1.7.5)
     launchy (2.1.2)
       addressable (~> 2.3)
+    libv8 (3.3.10.4)
     libwebsocket (0.1.7.1)
       addressable
       websocket
@@ -215,6 +216,7 @@ DEPENDENCIES
   guard-spork
   jquery-rails
   launchy
+  libv8 (= 3.3.10.4)
   passenger
   rack-livereload
   rails (= 3.2.9)

@@ -21,6 +21,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'libv8', '3.3.10.4'
 gem 'therubyracer'
 
 group :development do

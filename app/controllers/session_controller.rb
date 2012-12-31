@@ -1,7 +1,16 @@
 class SessionController < ApplicationController
+	@@counter = 0
+	@@threads = []
   def index
   	@@process = Process.pid
-  	sleep 3
+
+  	@@counter += 1
+  	logger.info "Thread counter: #{@@counter} : #{@@process}"
+  	@@threads << @@process unless @@threads.include?(@@process)
+		logger.info "Threads: #{@@threads}"
+
+  	sleep 1
+
   	if @@process != Process.pid
   		logger.info "The thread lock is broken !!!"
   		logger.info "current process is #{Process.pid}"
