@@ -1,6 +1,10 @@
 Session::Application.routes.draw do
   get "session/index"
 
+  get "session/test"
+
+  match "/hello" => proc { |env| [200, {}, ["Hello Rack!"]] }
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
